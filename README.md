@@ -1,2 +1,2 @@
 # 3gxdistribution
-3gxの配布場所です！
+"3gx"の配布場所です！
