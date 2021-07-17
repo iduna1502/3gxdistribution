@@ -1,1 +1,1 @@
-#idunaCTRPF.3g配布
+# idunaCTRPF.3g配布
